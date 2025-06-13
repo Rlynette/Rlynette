@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lynette Ronnoh</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A Data analyst by title, visionary by nature</h3>
 <img align="right" alt="Coding" width="400" src="https://www.encora.com/hs-fs/hubfs/Picture1.gif?width=800&name=Picture1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlynette&label=Profile%20views&color=0e75b6&style=flat" alt="rlynette" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Web Development**
+- 🌱 I’m currently learning **AI & ML, AI Agents, Business Intelligence and Automation**
 
-- 💬 Ask me about **React,Js**
+- 💬 Ask me about **Data analysis using Excel, Power BI, and SQL**
 
 - 📫 How to reach me **lynetteronnoh86@gmail.com**
 
